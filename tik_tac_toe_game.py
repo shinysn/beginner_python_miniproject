@@ -1,3 +1,4 @@
+#simple GUI format
 from tkinter import *
 
 root=Tk()
